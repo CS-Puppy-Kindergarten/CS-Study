@@ -1,5 +1,5 @@
 # 🐶 CS 스터디 (강아지 유치원)
-<img src="https://github.com/CS-Puppy-Kindergarten/CS-Study/assets/111109411/60fabd61-bea9-4365-bafc-7c673a4dda68" width=80% />
+<img src="https://github.com/CS-Puppy-Kindergarten/CS-Study/assets/111109411/037d6b82-ee85-4ba9-8ce2-9476930bd211" width=80% />
 
 ## :runner: 참여 인원
 | **전경향** | **신온유**| **유소연** | **박이언** | **서다찬** |

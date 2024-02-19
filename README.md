@@ -16,7 +16,27 @@
 
 #### [4. 웹 통신의 큰 흐름](https://github.com/CS-Puppy-Kindergarten/CS-Study/wiki/%EC%9B%B9-%ED%86%B5%EC%8B%A0%EC%9D%98-%ED%81%B0-%ED%9D%90%EB%A6%84)
 
+#### [5. HTTP의 GET과 POST 비교](https://github.com/CS-Puppy-Kindergarten/CS-Study/wiki/HTTP%EC%9D%98-GET%EA%B3%BC-POST-%EB%B9%84%EA%B5%90)
+
+#### [6. DNS Round Robin 방식](https://github.com/CS-Puppy-Kindergarten/CS-Study/wiki/DNS-Round-Robin-%EB%B0%A9%EC%8B%9D)
+
 ## 🤎 운영체제
+
+#### [1. 프로세스와 스레드의 차이](https://github.com/CS-Puppy-Kindergarten/CS-Study/wiki/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EC%99%80-%EC%8A%A4%EB%A0%88%EB%93%9C)
+
+#### [2. 멀티스레드](https://github.com/CS-Puppy-Kindergarten/CS-Study/wiki/%EB%A9%80%ED%8B%B0-%EC%8A%A4%EB%A0%88%EB%93%9C)
+
+#### [3. 스케줄러](https://github.com/CS-Puppy-Kindergarten/CS-Study/wiki/%EC%8A%A4%EC%BC%80%EC%A4%84%EB%9F%AC)
+
+#### [4. CPU 스케줄러](https://github.com/CS-Puppy-Kindergarten/CS-Study/wiki/CPU-%EC%8A%A4%EC%BC%80%EC%A4%84%EB%9F%AC)
+
+#### [5. 동기와 비동기의 차이](https://github.com/CS-Puppy-Kindergarten/CS-Study/wiki/%EB%8F%99%EA%B8%B0%EC%99%80-%EB%B9%84%EB%8F%99%EA%B8%B0%EC%9D%98-%EC%B0%A8%EC%9D%B4)
+
+#### [6. 프로세스 동기화](https://github.com/CS-Puppy-Kindergarten/CS-Study/wiki/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-%EB%8F%99%EA%B8%B0%ED%99%94)
+
+#### [7. 가상 메모리](https://github.com/CS-Puppy-Kindergarten/CS-Study/wiki/%EA%B0%80%EC%83%81-%EB%A9%94%EB%AA%A8%EB%A6%AC)
+
+#### [8. 캐시의 지역성](https://github.com/CS-Puppy-Kindergarten/CS-Study/wiki/%EC%BA%90%EC%8B%9C%EC%9D%98-%EC%A7%80%EC%97%AD%EC%84%B1)
 
 ## 💚 데이터베이스
 
